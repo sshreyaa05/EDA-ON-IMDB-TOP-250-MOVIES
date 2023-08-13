@@ -1,6 +1,12 @@
 # EDA-ON-IMDB-TOP-250-MOVIES
+## PROBLEM STATEMENT:
 This dataset provides us with the curated list of what is considered some of the best and most popular movies according to the ratings and reviews
-submitted by users on the Internet Movie Database (IMDB) platform. It gives us the meaningful insights:
+submitted by users on the Internet Movie Database (IMDB) platform. It gives us the meaningful insights, conducting the comprehensive analysis of the dataset.
+## Why are we performing this EDA?
+## It serves several important purposes :
+## 1. Insight Generation - it helps to uncover hidden patterns, trends and relationships within the dataset.
+## 2. Decision making - it informs business production decisions for the film makers and the production companies.
+## So lets proceed with gaining the insights from the dataset.
 ## 1. Which are top three genres where most number of films came in the top 250 movies?
 ![image](https://github.com/sshreyaa05/EDA-ON-IMDB-TOP-250-MOVIES/assets/132264752/f8acebb8-d358-419d-bf42-220c8120ea92)
 ## The top 3 genres where most movies came out of top 210 were :
@@ -49,4 +55,4 @@ submitted by users on the Internet Movie Database (IMDB) platform. It gives us t
 ## 13. Which genre had the highest box office collection? 
 ![image](https://github.com/sshreyaa05/EDA-ON-IMDB-TOP-250-MOVIES/assets/132264752/4b995374-8adc-4962-88df-ecb0894d5295)
 ## Action, Adventure and drama enjoyed the highest box office collection among all the genres.
-
+## so in this way we conduct our exploratory data analysis uncovering the hidden patterns thereby, helping the business for taking data-driven decisions.
